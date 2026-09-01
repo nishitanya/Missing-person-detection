@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.env
+.env.local
+Hack4Safety/public/uploads/*
+!Hack4Safety/public/uploads/missing-persons/node_modules/
+.next/
+.env
+.env.local
+
